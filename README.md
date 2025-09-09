@@ -3,7 +3,9 @@
 ## Project Overview
 
 **Role**: Data Analyst
-**Project Title**: Retail Sales Analysis  
+
+**Project Title**: Retail Sales Analysis 
+
 **Database**: `retail_sale_database`
 
 This project demonstrates my ability to apply core SQL techniques to clean, explore, and analyze real-world retail sales data. I created and managed a relational database in PostgreSQL, conducted exploratory data analysis (EDA), and answered business-focused questions using efficient and well-structured SQL queries.
@@ -196,4 +198,5 @@ Overall, this project showcases my ability to work with relational databases (Po
 -**Email Address**: (mercyaremu3@gmail.com)
   
 I look forward to connecting with you!
+
 
